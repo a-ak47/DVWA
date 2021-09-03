@@ -53,5 +53,5 @@
 
 	<br />
 
-	<p>Reference: <?php echo dvwaExternalLinkUrlGet( 'https://owasp.org/www-community/attacks/csrf' ); ?></p>
+	<p>Reference: <?php echo dvwaExternalLinkUrlGet('https://owasp.org/www-community/attacks/csrf'); ?></p>
 </div>
